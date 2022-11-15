@@ -4,10 +4,10 @@ export default function Headers(){
         <>
         <div className="container-fluid header">
             <div className="col-md-7 header-left">
-                <h1>Get Farm Equipment on Rent at Affordable Price </h1>
+                <h1>Farmer's  Equipment  at resonable and affordable Prices. </h1>
                 <hr /> 
-                <p>We provide farming equipment on rent to help the farmers to increase their productivity </p>
-                <button className="btn btn-success">Order Now </button>
+                <p>Start Now with just one click </p>
+                <button className="btn btn-success">Book Now </button>
             </div>
         </div>
         </>
