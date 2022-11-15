@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KRISHI-SARTHI/static/css/main.90e31278.css",
+    "main.js": "/KRISHI-SARTHI/static/js/main.fb304258.js",
+    "static/js/787.28cb0dcd.chunk.js": "/KRISHI-SARTHI/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bg.jpg": "/KRISHI-SARTHI/static/media/bg.7ed39e9747d9aa0adc33.jpg",
+    "index.html": "/KRISHI-SARTHI/index.html",
+    "main.90e31278.css.map": "/KRISHI-SARTHI/static/css/main.90e31278.css.map",
+    "main.fb304258.js.map": "/KRISHI-SARTHI/static/js/main.fb304258.js.map",
+    "787.28cb0dcd.chunk.js.map": "/KRISHI-SARTHI/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90e31278.css",
+    "static/js/main.fb304258.js"
+  ]
+}
